@@ -1,16 +1,15 @@
-### Hi there 👋
+# Stuart Wilcox
 
-<!--
-**Stuart-Wilcox/Stuart-Wilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Links |
+|-------|
+  <image src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) |
+| <image src="https://github.githubassets.com/favicons/favicon.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) |
+| <image src="https://fonts.gstatic.com/s/i/materialicons/contact_page/v1/24px.svg" height="14" width="14"> [Resume](http://todo) | 
 
-Here are some ideas to get you started:
+Hi my name is Stuart Wilcox, I'm a web developer with 2 years professional experience. I'm more focused on front-end development because I love React, but more recently I have picked up React-Native to compliment my web dev skills with some mobile skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduated Software Engineering at Western University in 2019, currently working at Deloitte. During my studies, I did two summer internships at London Hydro and IBM.
+  
+Check out some of my work
+
+ TODO
