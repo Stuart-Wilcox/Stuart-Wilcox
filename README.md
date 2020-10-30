@@ -15,4 +15,11 @@ Hi my name is Stuart Wilcox, I'm a full-stack web developer with 2 years profess
 
 ## Projects
 
-TODO
+|    |    |
+|:---|:---|
+| <h3><a href="https://github.com/Stuart-Wilcox/test-fill">test-fill</a></h3><h4>Browser extension to accelerate repetitive form filling </h4> | <ul><li>A cross-browser extension created using vanilla JS</li><li>Available on <a href="https://addons.mozilla.org/en-US/firefox/addon/test-fill-v2">Firefox Add-Ons</a>, <a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store (Coming soon)</a> and <a href="https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home">Edge Add-Ons (Coming soon)</a></li></ul> |
+| <h3><a href="https://stuart-wilcox.github.io/servepy-site/main">servepy</a></h3><h4>Python web server framework inspired by Express.js</h4> | <ul><li>servepy is a minimal Python 3 web application framework that can be used for web and mobile applications</li><li>With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy</li><li>Published on [PyPI](https://pypi.python.org/pypi/servepy/1.0.2) --> `$pip install servepy`</li></ul> |
+| <h3><a href="https://github.com/Stuart-Wilcox/socket-service">socket-service</a></h3><h4>Socket service is intended to be a simple, lightweight and fast service to easily integrate web sockets into existing apps</h4> | <ul><li>It runs an express server alongside a socket.io server, in order for external sources to dispatch events to any socket clients</li><li>Socket clients register for whatever events they would like to watch, and when that type of event is dispatched, the client gets updated with the new information</li><li>Working on publishing it to npm</li></ul> |
+
+Feel free to browse the rest of [my repositories](https://github.com/Stuart-Wilcox?tab=repositories) to get a better sense of what I've worked on in the past.
+
