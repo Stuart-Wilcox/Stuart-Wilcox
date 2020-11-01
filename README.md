@@ -2,7 +2,7 @@
 
 |    |    |    |    |
 |:---|:---|:---|:---|
-| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src=assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://drive.google.com/file/d/1vK4K83mz5Z_MijLvPv61vdsU8M2r0gqL/view?usp=sharing) | 
+| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src="assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://drive.google.com/file/d/1vK4K83mz5Z_MijLvPv61vdsU8M2r0gqL/view?usp=sharing) | 
 
 Hi my name is Stuart Wilcox, I'm a full-stack web developer with 2 years professional experience. I'm more focused on front-end development because I love React, but more recently I have picked up React-Native to compliment my web dev skills with some mobile skills. I also have experience working on backends in python/django and node.js/express. Check out my resume linked above to learn more!
 
