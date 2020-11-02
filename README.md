@@ -2,7 +2,7 @@
 
 |    |    |    |    |
 |:---|:---|:---|:---|
-| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src="assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://github.com/Stuart-Wilcox/Stuart-Wilcox/raw/main/assets/files/Resume.docx) | 
+| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src="assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://github.com/Stuart-Wilcox/Stuart-Wilcox/raw/main/assets/files/Resume-Stuart-Wilcox.docx) | 
 
 Hi my name is Stu Wilcox, I'm a full-stack web developer with 2 years professional experience. Please check out my resume (linked above) to learn more!
 
@@ -28,7 +28,7 @@ Hi my name is Stu Wilcox, I'm a full-stack web developer with 2 years profession
 
 |    |    |    |
 |:---|:---|:---|
-| <image src=""/> | <h3>Bachelor of Engineering Science - <i>Software Engineering</i></h3><h4>Western University</h4><p>2015 - 2019<br/>London, ON</p> | <ul><li>Graduate class of 2019</li><li>3.7 Cumulative GPA</li><li>Varsity Cross Country and Track & Field</li></ul> |
+| <image src="assets/images/Western.png"/> | <h3>Bachelor of Engineering Science - <i>Software Engineering</i></h3><h4>Western University</h4><p>2015 - 2019<br/>London, ON</p> | <ul><li>Graduate class of 2019</li><li>3.7 Cumulative GPA</li><li>Varsity Cross Country and Track & Field</li></ul> |
 
 ## Projects
 
