@@ -2,7 +2,7 @@
 
 |    |    |    |    |
 |:---|:---|:---|:---|
-| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src="assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://github.com/Stuart-Wilcox/Stuart-Wilcox/raw/main/assets/files/Resume-Stuart-Wilcox.docx) | 
+| <image src="assets/icons/Mail.svg" height="12" width="12"/>&nbsp;<a href="mailto:stuart_wilcox@outlook.com">Email</a> | <image src="assets/images/LinkedIn.png" height="12" width="12"/> [LinkedIn](https://www.linkedin.com/in/stuart-wilcox-3b8877130/) | <image src="assets/icons/Github.svg" height="12" width="12"/> [Github](https://github.com/Stuart-Wilcox/) | <image src="assets/icons/Resume.svg" height="12" width="12"> [Resume](https://github.com/Stuart-Wilcox/Stuart-Wilcox/raw/main/assets/files/Stuart-Wilcox-Resume.docx) | 
 
 Hi my name is Stu Wilcox, I'm a full-stack web developer with 2 years professional experience. Please check out my resume (linked above) to learn more!
 
