@@ -1,4 +1,4 @@
-# Stu Wilcox
+# [Stu Wilcox](https://stuart-wilcox.github.io/Stuart-Wilcox/)
 
 |    |    |    |    |
 |:---|:---|:---|:---|
