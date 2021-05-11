@@ -40,11 +40,3 @@ Hi my name is Stu Wilcox, I'm a full-stack web developer with 2 years profession
 | <h3><a href="https://github.com/Stuart-Wilcox/socket-service">socket-service</a></h3><h4>Socket service is intended to be a simple, lightweight and fast service to easily integrate web sockets into existing apps</h4> | <ul><li>It runs an express server alongside a socket.io server, in order for external sources to dispatch events to any socket clients</li><li>Socket clients register for whatever events they would like to watch, and when that type of event is dispatched, the client gets updated with the new information</li><li>Working on publishing it to npm</li></ul> |
 
 Feel free to browse the rest of [my repositories](https://github.com/Stuart-Wilcox?tab=repositories) to get a better sense of what I've worked on in the past.
-
-## Gallery
-These are screen captures from some of the projects I previously worked on, all available under my repos
-![Test-Fill](assets/gallery/Test-Fill.gif)
-![Dart Tag](assets/gallery/Dart-Tag.gif)
-![Dogfighter](assets/gallery/Dogfighter.gif)
-![Sudoku-Solver](assets/gallery/Sudoku-Solver.gif)
-
