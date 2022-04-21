@@ -14,13 +14,14 @@ Hi my name is Stu Wilcox, I'm a full-stack web developer with 2 years profession
 | Frontend Frameworks/Tools | React, React-Native, Angular, Vue.js, PyQT, QT, JavaFX, Windows Forms |
 | Backend  Frameworks/Tools | Express.js, Socket.io, Django/Django-REST, Flask, Spring |
 | Databases | MySQL, Postgres, MongoDB, NoSQL |
-| Other | GIT, Docker, Unity, RPI, Web Scraping |
+| Other | GIT, ADO, Docker, Unity, RPI, Web Scraping |
 
 ## Experience
 
 |    |    |    |
 |:---|:---|:---|
-| <image src="assets/images/Deloitte.jpg" /> | <h3>Consultant</h3><h4>Deloitte</h4><p>June 2019 - Present<br/>Toronto, ON</p> | <ul><li>Full stack web development using Python/Django and Typescript/React with a focus on frontend</li><li>Collaborated with a large team of developers, designers, product owners, and managers to develop an enterprise web application for contract lifecycle management, allowing users to create, negotiate and sign contracts, significantly reducing time to process contracts</li><li>Planned and built out features and enhancements for new and existing pages to improve UX</li></ul> |
+| <image src="assets/images/Microsoft.jpg" /> | <h3>Software Engineer</h3><h4>Microsoft</h4><p>Aug 2021 - Present</p> | <ul><li>Support hundreds of developers in the frontend space of the Office Online suite</li><li>Tooling & infrastructure for Javascript/Typescript monorepo</li><li>Setting company-wide and industry-wide standards for Javascript monorepos</li></ul> |
+| <image src="assets/images/Deloitte.jpg" /> | <h3>Product Senior</h3><h4>Deloitte</h4><p>June 2019 - July 2021<br/>Toronto, ON</p> | <ul><li>Full stack web development using Python/Django and Typescript/React with a focus on frontend</li><li>Collaborated with a large team of developers, designers, product owners, and managers to develop enterprise web applications with AI enablement</li><li>Planned and built out features and enhancements for new and existing pages to improve UX</li></ul> |
 | <image src="assets/images/IBM.png" /> | <h3>Software Developer</h3><h4>IBM</h4><p>May 2018 - Aug 2018<br/>Markham, ON</p> | <ul><li>Created new tools as well as improved and maintained existing ones to monitor the Hybrid Cloud team’s progression with clients</li><li>Simplified the process of accessing and updating client information, cutting down update time for 1-3 days to just seconds, allowing managers to accurately monitor clients</li><li>Improved the process of tracking clients between teams by integrating functionality of dozens of inter-team applications into one, improving inter-team communication and data flow</li></ul> |
 | <image src="assets/images/LH.png" /> | <h3>Information Technology Summer Student</h3><h4>London Hydro</h4><p>May 2017 - Sept 2017<br/>London, ON</p> | <ul><li>Captured customers’ real-time electricity usage as part of a company-wide initiative to provide higher accuracy billing to their clients and better predict and monitor spikes in the grid</li><li>Designed and planned production systems to collect usage data, reducing data granularity from every hour to every 10 seconds using Java Spring and NoSQL</li><li>Implemented the production server capable of collecting and processing incoming data from over one thousand homes in real-time</li></ul> |
 
